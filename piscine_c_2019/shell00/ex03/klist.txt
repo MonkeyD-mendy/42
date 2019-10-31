@@ -1,0 +1,5 @@
+Credentials cache: API:B19ABFFC-9404-405E-BBAE-FDB4A33FFC4B
+        Principal: rmendy@42.FR
+
+		  Issued                Expires               Principal
+		  Aug 26 17:40:57 2019  Sep  2 17:40:57 2019  krbtgt/42.FR@42.FR
